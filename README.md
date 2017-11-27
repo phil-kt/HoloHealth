@@ -8,8 +8,8 @@ Doctors and nurses spend lots of time managing paperwork and navigating the intr
 
 ## How
 
-Using the Hololens, the app scans a QR code to get a patient ID that is then passed to AthenHealth to get all the relevant data. 
+Using the Hololens, the app scans a QR code to get a patient ID that is then passed to AthenaHealth to get all the relevant data. 
 
-## Gifs
+## Gif
 
-Soon...
+![Grabbing patient data and placing it around room](holo.gif)
